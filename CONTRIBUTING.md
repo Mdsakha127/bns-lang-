@@ -5,7 +5,7 @@ Contributions are welcome!
 ## Development
 
 ```bash
-git clone https://github.com/your-org/bns-lang.git
+git clone https://github.com/BAESY2/bns-lang.git
 cd bns-lang
 npm install
 ```

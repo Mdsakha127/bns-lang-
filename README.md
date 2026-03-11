@@ -320,7 +320,7 @@ bns-lang/
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ```bash
-git clone https://github.com/user/bns-lang.git
+git clone https://github.com/BAESY2/bns-lang.git
 cd bns-lang
 npm install
 npm test
